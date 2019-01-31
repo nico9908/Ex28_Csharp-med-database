@@ -8,8 +8,17 @@ namespace Ex28
 {
     class Program
     {
+        Menu menu = new Menu();
+
         static void Main(string[] args)
         {
+            Program pro = new Ex28.Program();
+            pro.Run();
+        }
+
+        private void Run()
+        {
+            menu.RunMenu();
         }
     }
 }
