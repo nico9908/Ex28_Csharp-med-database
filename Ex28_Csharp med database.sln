@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex28", "Ex28\Ex28.csproj", "{D0FABD4D-1BE9-4F06-9FB6-D55E396E63CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex28_Csharp med database", "Ex28\Ex28_Csharp med database.csproj", "{D0FABD4D-1BE9-4F06-9FB6-D55E396E63CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
